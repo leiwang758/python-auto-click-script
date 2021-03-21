@@ -1,2 +1,2 @@
 # python-auto-click-script
-auto click script for python
+auto click script written in python
